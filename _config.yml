@@ -16,8 +16,6 @@ author:
   name:           'Joey Takeda'
   url:            https://github.com/joeytakeda
 
-paginate:         5
-
 # Custom vars
 version:          2.1.0
 
