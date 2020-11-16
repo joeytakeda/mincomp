@@ -9,7 +9,8 @@ permalink:        pretty
 title:            'Minimal Computing workshop'
 tagline:          'MinComp Workshop @ SFU'
 description:      'Minimal Computing workshop at SFU. Themed based on <a href="https://github.com/poole/hyde">Hyde</a>'
-baseurl:          http://joeytakeda.github.io/mincomp/
+url:              https://joeytakeda.github.io/mincomp/
+baseurl:          https://joeytakeda.github.io/mincomp/
 
 author:
   name:           'Joey Takeda'
